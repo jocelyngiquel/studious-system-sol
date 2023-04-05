@@ -4,7 +4,7 @@ Some forces' engineer doctrines differentiate between a low-mobility armoured do
 
 Some bulldozers have been fitted with armor by civilian operators to prevent bystanders or police from interfering with the work performed by the bulldozer, as in the case of strikes or demolition of condemned buildings. This has also been done by civilians with a dispute with the authorities, such as Marvin Heemeyer, who outfitted his Komatsu D355A bulldozer with homemade composite armor to then demolish government buildings.
 
-In recent years,  innovations in the construction technology have made remote-controlled bulldozers a reality. Now, heavy machinery can be controlled from up to 1,000 feet away. This contributes to the safety of workers on the jobsite, keeping them at a secure distance from potentially dangerous jobs.
+In recent years, innovations in the construction technology have made remote-controlled bulldozers a reality. Now, heavy machinery can be controlled from up to 1,000 feet away. This contributes to the safety of workers on the jobsite, keeping them at a secure distance from potentially dangerous jobs.
 
 The advancement and the ability to control the heavy machinery from afar provides workers with the sufficient control over the dozers to get the job done. Though these machines are still in their early stages, many construction companies are using them successfully.
 

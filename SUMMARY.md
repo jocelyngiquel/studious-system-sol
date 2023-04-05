@@ -5,15 +5,15 @@
 ## know how
 
 * [insects](know-how/insects-know-how/README.md)
-  * [ants](know-how/insects-know-how/ants.md)
-  * [bee](know-how/insects-know-how/bee.md)
-  * [caterpillar](know-how/insects-know-how/caterpillars.md)
-  * [moths](know-how/insects-know-how/moths.md)
+  * [ants](insects-know-how/ants.md)
+  * [bee](insects-know-how/bee.md)
+  * [caterpillar](insects-know-how/caterpillars.md)
+  * [moths](insects-know-how/moths.md)
 
 ## getting started
 
 * [vehicles](getting-started/vehicles-getting-started/README.md)
-  * [bulldozers](getting-started/vehicles-getting-started/bulldozers.md)
-  * [combine harvester](getting-started/vehicles-getting-started/combine-harvester.md)
-  * [concrete mixer](getting-started/vehicles-getting-started/concrete-mixer.md)
-  * [dump truck](getting-started/vehicles-getting-started/dump-truck.md)
+  * [bulldozers](vehicles-getting-started/bulldozers.md)
+  * [combine harvester](vehicles-getting-started/combine-harvester.md)
+  * [concrete mixer](vehicles-getting-started/concrete-mixer.md)
+  * [dump truck](vehicles-getting-started/dump-truck.md)

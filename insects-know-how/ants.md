@@ -1,6 +1,6 @@
 # ants
 
-Ant colonies can be long-lived. The queens can live for up to 30 years, and workers live from 1 to 3 years. Males, however, are more transitory, being quite short-lived and surviving for only a few weeks.
+Ant colonies can be long-lived. The queens can live for up to 30 years, and workers live from 1 to 3 years. Males, however, are more transitory, being quite short-lived and surviving for only a few weeks.
 
 Ants are active all year long in the tropics, but, in cooler regions, they survive the winter in a state of dormancy known as hibernation. The forms of inactivity are varied and some temperate species have larvae going into the inactive state (diapause), while in others, the adults alone pass the winter in a state of reduced activity.
 
