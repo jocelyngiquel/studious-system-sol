@@ -9,3 +9,5 @@ There has also been a history of people becoming entomologists through museum cu
 In 1994, the Entomological Society of America launched a new professional certification program for the pest control industry called the Associate Certified Entomologist (ACE). To qualify as a "true entomologist" an individual would normally require an advanced degree, with most entomologists pursuing a PhD. While not true entomologists in the traditional sense, individuals who attain the ACE certification may be referred to as ACEs or Associate Certified Entomologists.
 
 Many entomologists specialize in a single order or even a family of insects, and a number of these subspecialties are given their own informal names, typically (but not always) derived from the scientific name of the group
+
+<figure><img src="../.gitbook/assets/marino-linic-M_krTMIPSLg-unsplash.jpg" alt=""><figcaption></figcaption></figure>
