@@ -9,3 +9,5 @@ Many caterpillars display feeding behaviors which allow the caterpillar to remai
 Some caterpillars, like early instars of the tomato hornworm and tobacco hornworm, have long "whip-like" organs attached to the ends of their body. The caterpillar wiggles these organs to frighten away flies and predatory wasps.
 
 Some caterpillars obtain protection by associating themselves with ants. The Lycaenid butterflies are particularly well known for this. They communicate with their ant protectors by vibrations as well as chemical means and typically provide food rewards.
+
+![caterpillar image](../../.gitbook/assets/erik-karits-r66truBLDU4-unsplash.jpg)
