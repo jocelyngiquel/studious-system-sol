@@ -9,6 +9,7 @@
   * [bee](know-how/insects/bee.md)
   * [caterpillar](know-how/insects/caterpillars.md)
   * [moths](know-how/insects/moths.md)
+* [Entomologist](know-how/entomologist.md)
 
 ## getting started
 
